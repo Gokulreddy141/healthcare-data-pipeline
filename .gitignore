@@ -1,0 +1,17 @@
+# Python Virtual Environments
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Data Lake / Local Storage
+raw_data_lake/
+mongodb_data/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Spark / Hadoop temp files
+*.jar
+*.log
